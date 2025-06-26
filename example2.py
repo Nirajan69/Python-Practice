@@ -1,1 +1,5 @@
-print("Hello, Python!")
+print("Hello, Nirajan!")
+
+def sum(a, b):
+    return a + b
+print(sum(10, 20))
